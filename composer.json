@@ -1,0 +1,11 @@
+{	
+  "name" : "frdl/batch-process",
+  "license" : ["MIT"],
+  "require" : {
+         "aura/payload" : "3.0.1",	
+         "league/pipeline" : "1.0.0"		
+   }, 
+   "suggest" : {
+      "frdl/console" : "*"
+   }
+}
